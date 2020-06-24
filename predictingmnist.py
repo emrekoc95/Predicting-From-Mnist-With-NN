@@ -1,4 +1,3 @@
-#Emre Koc - 152120141041
 from keras import models, layers
 from keras.datasets import mnist
 from keras.utils import to_categorical
